@@ -1,0 +1,2 @@
+A simple Internet of Things setup that sends temperature and humidity data
+from two sensors to a common server.
